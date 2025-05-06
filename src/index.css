@@ -1,5 +1,5 @@
-@import "tailwindcss";
-@plugin "daisyui";
+
+/* DaisyUI plugin should be configured in the Tailwind CSS configuration file */
 html {
     scroll-behavior: smooth;
 }
