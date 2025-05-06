@@ -3,7 +3,7 @@ import dg from "../assets/dg.jpg";
 
 function About() {
   return (
-    <section className="about bg-light py-5">
+    <section className="about bg-light py-5" id="about">
       <div className="container">
         <Title title="À Propos de ShopEase" />
 

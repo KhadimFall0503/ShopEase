@@ -4,7 +4,7 @@ import "../styles/produit1.css";
 
 function Products() {
   return (
-    <div className="container mt-5 pt-5">
+    <div className="container mt-5 pt-5" id="home">
       <div className="products bg-white shadow-lg p-4 rounded-4">
         <div className="row align-items-center justify-content-center">
           <div className="col-md-6 text-center text-md-start mb-4 mb-md-0">

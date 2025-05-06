@@ -25,22 +25,22 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav justify-content-center mx-auto">
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#">
+                <a className="nav-link" aria-current="page" href="#home">
                   Home
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="#products">
                   Products
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#" tabIndex="-1" aria-disabled="true">
+                <a className="nav-link" href="#about" tabIndex="-1" aria-disabled="true">
                   About
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#" tabIndex="-1" aria-disabled="true">
+                <a className="nav-link" href="#contact" tabIndex="-1" aria-disabled="true">
                   Contact
                 </a>
               </li>

@@ -2,7 +2,7 @@ import Title from "./Title";
 
 function Contact() {
   return (
-    <section className="contact bg-light py-5">
+    <section className="contact bg-light py-5" id="contact">
       <div className="container">
         <Title title="Contactez-nous" />
 

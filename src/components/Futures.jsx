@@ -4,7 +4,7 @@ import "../styles/products.css";
 
 function Futures() {
   return (
-    <div className="futures pt-5">
+    <div className="futures pt-5" id="products">
       <div className="container">
         <Title title="Produits en Vedette" />
         <div className="row">
